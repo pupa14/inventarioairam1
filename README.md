@@ -1,11 +1,12 @@
-Para que funcione solo tendras que clonar el respositorio y arranacar el docker compose
+    Para que funcione solo tendras que clonar el respositorio y arranacar el docker compose
 
-git clone https://github.com/pupa14/inventarioairam.git .
+    git clone https://github.com/pupa14/inventarioairam.git .
 
-docker compose up -d
-// visita localhost
+    docker compose up -d
+    
+    // visita localhost
 ```
-USUARIOS
+    USUARIOS
 
     Usuario por defecto: LaGraciosa
     Clave: hola1234
