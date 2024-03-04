@@ -8,7 +8,9 @@ Para que funcione solo tendras que clonar el respositorio y arranacar el docker 
     docker compose up -d
     
 // visita localhost 
-    
+
+<hr>
+<hr>    
     
 USUARIOS
 
