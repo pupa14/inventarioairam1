@@ -13,9 +13,11 @@ Para que funcione solo tendras que clonar el respositorio y arranacar el docker 
 USUARIOS
 
 Usuario por defecto: LaGraciosa
+
 Clave: hola1234
 
 Usuario profesor: Profe
+
 Clave: hola1234
 
 <img src="./www/img/inicio.png" alt="">
