@@ -483,3 +483,5 @@ localhost:80 172.19.0.1 - - [04/Mar/2024:12:03:37 +0000] "GET /img/logo.png HTTP
 localhost:80 172.19.0.1 - - [04/Mar/2024:12:03:37 +0000] "GET /css/estilos.css HTTP/1.1" 200 559 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 localhost:80 172.19.0.1 - - [04/Mar/2024:12:03:37 +0000] "GET /css/bulma.min.css HTTP/1.1" 200 27851 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 localhost:80 172.19.0.1 - - [04/Mar/2024:12:03:38 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+172.19.0.5:80 172.19.0.1 - - [04/Mar/2024:13:21:52 +0000] "\x16\x03\x01\x022\x01" 400 484 "-" "-"
+172.19.0.5:80 172.19.0.1 - - [04/Mar/2024:13:21:52 +0000] "\x16\x03\x01\x02R\x01" 400 484 "-" "-"
