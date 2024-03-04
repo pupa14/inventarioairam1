@@ -16,6 +16,8 @@ Usuario por defecto: LaGraciosa
 
 Clave: hola1234
 
+<hr>
+
 Usuario profesor: Profe
 
 Clave: hola1234
