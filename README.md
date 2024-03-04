@@ -13,3 +13,5 @@
 
     Usuario profesor: Profe
     Clave: hola1234
+
+<img src="./www/img/inicio.png"
